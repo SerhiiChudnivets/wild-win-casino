@@ -1,7 +1,7 @@
 {
   "name": "wild-win.casino",
   "site_name": "WildWin Casino: Games Online & Bonuses",
-  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
+  "html_head": "<link rel=\"canonical\" href=\"https://wild-win.casino/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WildWin Casino: Games Online & Bonuses\">\n<meta property=\"og:description\" content=\"Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.\">\n<meta property=\"og:url\" content=\"https://wild-win.casino/\">\n<meta property=\"og:site_name\" content= \"WildWin Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"WildWin Casino: Games Online & Bonuses\">\n<meta name=\"twitter:description\" content=\"Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.\">",
   "url": "wild-win.casino",
   "template": "tupchiy",
   "language_code": "en",
@@ -59,32 +59,32 @@
   },
   "seo_description": "Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.",
   "redirect_site": null,
-  "hero_title": "Lilu Casino",
+  "hero_title": "WildWin Casino",
   "hero_subtitle": "Welcome Bonus",
-  "hero_badge": "Lilu Casino – New Player Bonus",
-  "cta_text": "Claim",
-  "tagline": "525% up to €5,000 + 500 Free Spins",
+  "hero_badge": "WildWin Casino – Get a Bonus",
+  "cta_text": "Claim Bonus",
+  "tagline": "450% up to €2,300 + 325 Free Spins",
   "features_list": null,
-  "footer_text": "© 2026. Lilu Casino. All rights reserved",
-  "popup_text": "Bonus 525% up to €5,000 + 500 FS",
+  "footer_text": "© 2026. WildWin Casino. All rights reserved",
+  "popup_text": "Bonus 450% up to €2,300 + 325 FS",
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": "Top Online Slots at Lilu Casino",
-  "bonus_title": "Lilu Casino: Claim Welcome Packages & Weekly Bonuses",
-  "get_bonus_btn_text": "Get Bonus",
+  "slots_title": "Most Popular Slot Games to Play at WildWin",
+  "bonus_title": "WildWin: Welcome Rewards, Weekly Deals & VIP Perks",
+  "get_bonus_btn_text": "Play Now",
   "redirect_link": "/play/",
   "home_name": "WildWin Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#0f1013",
-  "secondary_background": "#292933",
-  "button_background": "#fdb410",
+  "main_background": "#03081a",
+  "secondary_background": "#171831",
+  "button_background": "#02da8a",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#8b5cf6",
+  "cta_background": "#02da8a",
   "logo": {
     "url": "/uploads/wildwin-logo.svg"
   },
@@ -96,14 +96,14 @@
   },
   "header_menu": [
     {
-      "link": "/bonuses/",
-      "label": "Bonuses",
+      "link": "/play/",
+      "label": "Games",
       "submenu": [],
       "openInNewTab": false
     },
     {
-      "link": "/games/",
-      "label": "Games",
+      "link": "/play/",
+      "label": "Login",
       "submenu": [],
       "openInNewTab": false
     },
@@ -115,7 +115,7 @@
     },
     {
       "link": "/play/",
-      "label": "Login",
+      "label": "Bonuses",
       "submenu": [],
       "openInNewTab": false
     },
@@ -135,12 +135,6 @@
     },
     {
       "link": "/play/",
-      "label": "Contact",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "Privacy policies",
       "submenu": [],
       "openInNewTab": false
@@ -148,6 +142,12 @@
     {
       "link": "/play/",
       "label": "Cookies Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contact",
       "submenu": [],
       "openInNewTab": false
     }
@@ -239,8 +239,8 @@
       "question": "What is the minimum deposit and withdrawal amount at WildWin Casino?"
     }
   ],
-  "_generated_at": "2026-11-19T10:17:51.347Z",
+  "_generated_at": "2026-11-19T10:39:29.870Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T10:17:51.995Z",
-  "_deploy_trigger": "bin7uc"
+  "_last_deploy": "2026-11-19T10:39:30.521Z",
+  "_deploy_trigger": "5ludlr"
 }

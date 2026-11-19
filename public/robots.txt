@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://lilucasino.net/sitemap.xml
+Sitemap: https://wild-win.casino/sitemap.xml
