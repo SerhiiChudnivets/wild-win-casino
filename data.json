@@ -60,10 +60,10 @@
   "seo_description": "Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.",
   "redirect_site": null,
   "hero_title": "WildWin Casino",
-  "hero_subtitle": "Welcome Bonus",
+  "hero_subtitle": "Play Real Money Slots Online",
   "hero_badge": "WildWin Casino – Get a Bonus",
   "cta_text": "Claim Bonus",
-  "tagline": "450% up to €2,300 + 325 Free Spins",
+  "tagline": "Welcome Bonus 450% up to €2,300 + 325 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. WildWin Casino. All rights reserved",
   "popup_text": "Bonus 450% up to €2,300 + 325 FS",
@@ -239,8 +239,8 @@
       "question": "What is the minimum deposit and withdrawal amount at WildWin Casino?"
     }
   ],
-  "_generated_at": "2026-11-19T10:39:29.870Z",
+  "_generated_at": "2026-11-19T11:01:57.325Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T10:39:30.521Z",
-  "_deploy_trigger": "5ludlr"
+  "_last_deploy": "2026-11-19T11:01:58.007Z",
+  "_deploy_trigger": "rhqa9v"
 }
