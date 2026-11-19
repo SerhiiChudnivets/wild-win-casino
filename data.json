@@ -1,6 +1,6 @@
 {
   "name": "wild-win.casino",
-  "site_name": "WildWin Casino: Games Online & Bonuses",
+  "site_name": "WildWin Casino: Login & Claim Bonus up to €2,300",
   "html_head": "<link rel=\"canonical\" href=\"https://wild-win.casino/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"WildWin Casino: Games Online & Bonuses\">\n<meta property=\"og:description\" content=\"Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.\">\n<meta property=\"og:url\" content=\"https://wild-win.casino/\">\n<meta property=\"og:site_name\" content= \"WildWin Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"WildWin Casino: Games Online & Bonuses\">\n<meta name=\"twitter:description\" content=\"Play at WildWin Casino online and claim up to €2,300 + 325 Free Spins. Enjoy 1,000+ slots, live dealer tables, €10 minimum withdrawals, and 24/7 support.\">",
   "url": "wild-win.casino",
   "template": "tupchiy",
@@ -239,8 +239,8 @@
       "question": "What is the minimum deposit and withdrawal amount at WildWin Casino?"
     }
   ],
-  "_generated_at": "2026-11-19T11:09:22.633Z",
+  "_generated_at": "2026-11-19T11:21:05.960Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T11:09:23.359Z",
-  "_deploy_trigger": "ns8hg8"
+  "_last_deploy": "2026-11-19T11:21:06.725Z",
+  "_deploy_trigger": "ti9ata"
 }
