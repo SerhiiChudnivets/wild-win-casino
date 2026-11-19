@@ -63,7 +63,7 @@
   "hero_subtitle": "Play Real Money Slots Online",
   "hero_badge": "WildWin Casino – Get a Bonus",
   "cta_text": "Claim Bonus",
-  "tagline": "Welcome Bonus 450% up to €2,300 + 325 Free Spins",
+  "tagline": "Welcome Pack 450% up to €2,300 + 325 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. WildWin Casino. All rights reserved",
   "popup_text": "Bonus 450% up to €2,300 + 325 FS",
@@ -239,8 +239,8 @@
       "question": "What is the minimum deposit and withdrawal amount at WildWin Casino?"
     }
   ],
-  "_generated_at": "2026-11-19T11:01:57.325Z",
+  "_generated_at": "2026-11-19T11:09:22.633Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T11:01:58.007Z",
-  "_deploy_trigger": "rhqa9v"
+  "_last_deploy": "2026-11-19T11:09:23.359Z",
+  "_deploy_trigger": "ns8hg8"
 }
