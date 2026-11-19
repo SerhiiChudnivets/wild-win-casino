@@ -1,0 +1,180 @@
+{
+  "name": "wild-win.casino",
+  "site_name": "Lilu Casino Official | Slots, Live Tables & Banking",
+  "html_head": "<link rel=\"canonical\" href=\"https://lilucasino.net/\">\n<meta property=\"og:locale\" content=\"en\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Lilu Casino Official | Slots, Live Tables & Banking\">\n<meta property=\"og:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">\n<meta property=\"og:url\" content=\"https://lilucasino.net/\">\n<meta property=\"og:site_name\" content= \"Lilu Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Lilu Casino\">\n<meta name=\"twitter:description\" content=\"Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!\">",
+  "url": "wild-win.casino",
+  "template": "tupchiy",
+  "language_code": "en",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": false,
+  "breadcrumbs": false,
+  "content": "<p></p>",
+  "pages": [],
+  "faq_schema": null,
+  "seo_description": "Join Lilu Casino today! Play 1,700+ premium slots & live tables. Claim up to €5,000 + 500 Free Spins with instant € payouts. Sign up and win big now!",
+  "redirect_site": null,
+  "hero_title": "Lilu Casino",
+  "hero_subtitle": "Welcome Bonus",
+  "hero_badge": "Lilu Casino – New Player Bonus",
+  "cta_text": "Claim",
+  "tagline": "525% up to €5,000 + 500 Free Spins",
+  "features_list": null,
+  "footer_text": "© 2026. Lilu Casino. All rights reserved",
+  "popup_text": "Bonus 525% up to €5,000 + 500 FS",
+  "faq_title": "FAQ",
+  "login_text": "Login",
+  "register_text": "Sign Up",
+  "slots_title": "Top Online Slots at Lilu Casino",
+  "bonus_title": "Lilu Casino: Claim Welcome Packages & Weekly Bonuses",
+  "get_bonus_btn_text": "Get Bonus",
+  "redirect_link": "/play/",
+  "home_name": "Lilu Casino",
+  "subdomains": null,
+  "accent_color": "#d4af37",
+  "main_background": "#0f1013",
+  "secondary_background": "#292933",
+  "button_background": "#fdb410",
+  "button_text_color": "#FFFFFF",
+  "text_color": "#FFFFFF",
+  "color_highlight_text": "#FFFFFF",
+  "color_main_btn_text": "#FFFFFF",
+  "cta_background": "#8b5cf6",
+  "logo": {
+    "url": "/uploads/wildwin-logo.svg"
+  },
+  "popup_logo": {
+    "url": "/uploads/wildwin-logo.svg"
+  },
+  "main_background_img": {
+    "url": "/uploads/wildwin-baner.webp"
+  },
+  "header_menu": [
+    {
+      "link": "/bonuses/",
+      "label": "Bonuses",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/games/",
+      "label": "Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Live Casino",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Login",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Slots",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "About us",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contact",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacy policies",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookies Policy",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
+      "name": "Sweet Bonanza Dice",
+      "Name": "Sweet Bonanza Dice",
+      "logo_alt": "sweet bonanza dice"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/bf69dc1de1f959daf8a469e031733dff.webp",
+      "name": "GatesOfOlympus1000",
+      "Name": "GatesOfOlympus1000",
+      "logo_alt": "GatesOfOlympus1000"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
+      "name": "Lucky Money",
+      "Name": "Lucky Money",
+      "logo_alt": "lucky money"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/2419013924fd9ce9a5741c6a80dee5d8.webp",
+      "name": "Wild Wild Pearls",
+      "Name": "Wild Wild Pearls",
+      "logo_alt": "wild wild pearls"
+    },
+    {
+      "link": "",
+      "logo": "/uploads/25daedf6b4aef875ccf8367c89120d06.webp",
+      "name": "Santas Wonderland",
+      "Name": "Santas Wonderland",
+      "logo_alt": "santas wonderland"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/b7cb8165c3134c287ce4c15239038a91.webp",
+      "name": "Friday Reload Bonus 50% up to €200",
+      "Name": "Friday Reload Bonus 50% up to €200"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5973b060aacde9e401f969c785d41f08.webp",
+      "name": "Weekly Cashback up to 15%",
+      "Name": "Weekly Cashback up to 15%"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/4fd04ee346fe8b83f74a5be646bd7819.webp",
+      "name": "Welcome Bonus 525% up to €5,000 + 500 FS",
+      "Name": "Welcome Bonus 525% up to €5,000 + 500 FS"
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [],
+  "_generated_at": "2026-11-19T09:48:12.957Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-11-19T09:48:17.774Z",
+  "_deploy_trigger": "gdqrrt"
+}
